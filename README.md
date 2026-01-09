@@ -1,5 +1,6 @@
 #1 churgney gurgney & sinister minds listener
 
-<img width="191" height="186" alt="Screenshot 2025-11-21 134341" src="https://github.com/user-attachments/assets/48cc50f0-9792-4b50-8a8c-f8515e15379d" />
-<img width="188" height="183" alt="Screenshot 2025-11-21 134348" src="https://github.com/user-attachments/assets/34f561e8-8356-45ff-8407-c2b1ac228895" />
+<img width="156" height="152" alt="Screenshot 2026-01-09 135730" src="https://github.com/user-attachments/assets/d7187e98-653d-4c43-862a-7f1af3552be2" />
+<img width="152" height="154" alt="Screenshot 2026-01-09 135738" src="https://github.com/user-attachments/assets/daf0d7fd-2de5-4e76-bf4e-8a1022636fdb" />
+
 
